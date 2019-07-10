@@ -15,3 +15,24 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly.....","timestamp":"2019-07-09T16:11:02.880Z"}
 {"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T19:31:50.834Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly.....","timestamp":"2019-07-09T19:31:50.855Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T19:52:34.899Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T19:58:46.245Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:00:06.459Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.....","timestamp":"2019-07-09T20:00:06.480Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:01:00.917Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.....","timestamp":"2019-07-09T20:01:00.978Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:01:56.987Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:03:39.551Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:12:41.874Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.....","timestamp":"2019-07-09T20:12:41.892Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:12:50.290Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:13:12.297Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:22:21.099Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:35:13.466Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:36:30.790Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:36:46.883Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:36:55.719Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:37:03.226Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:37:08.079Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:37:20.510Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2019-07-09T20:40:16.479Z"}
