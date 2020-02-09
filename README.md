@@ -12,12 +12,12 @@ git clone https://github.com/madhusujan/Vidly.git
 2. Install all dependencies
 
 ````
-npm i
+npm install
 ````
 
 3. Run the app 
 
 
 ````
-nodemon serve.js 
+nodemon server.js 
 ````
